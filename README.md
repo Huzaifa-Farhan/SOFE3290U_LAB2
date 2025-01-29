@@ -4,7 +4,7 @@
 This report covers the implementation and testing of a binary operations controller in a Spring Boot application. The application performs binary addition, multiplication, bitwise AND, and bitwise OR operations. Each of these operations is tested using unit tests to ensure correct functionality.
 
 ## Video link 
-[CLICK HERE]([https://huzaifafarhan.com/](https://drive.google.com/file/d/1U9sp1rcy7KbL5PF7aHeYFoVUxUoFdbSS/view?usp=sharing)) to watch the full functionality!  
+[CLICK HERE](https://drive.google.com/file/d/1U9sp1rcy7KbL5PF7aHeYFoVUxUoFdbSS/view?usp=sharing) to watch the full functionality!  
 
 ## Test Cases
 
